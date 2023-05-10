@@ -1,0 +1,70 @@
+
+body {
+    background: pink;
+    text-align:center
+  }
+  p {
+    color: black;
+  }
+  h1 {
+    font-weight: bold;
+    color: darkslategray
+    
+  }
+  .fad1{
+    font-size: 20px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  }
+  h2{
+    color: blueviolet
+    
+      }
+  a { font-size: 20px; border-style: solid; border-color: darkblue; border-width: 2px; padding: 10px; }
+  img { border: 10px solid lightgrey; border-radius: 20px; width:350px; }
+  .juegos{
+    color:blueviolet;
+  }
+  .travel_mainDiv
+{
+    border: 1px solid lightgrey;
+}
+
+.travel_mainDiv img
+{
+  width: 100%;
+}
+
+.travel_mainDiv h5 , .travel_mainDiv p
+{
+margin: 20px;
+}
+
+
+.movie_head
+{
+    font-size: 20px;
+    padding: 6px 22px;
+    border-radius: 10px;
+    margin-bottom: 15px;
+}
+
+.movie_head i
+{
+float: right;
+}
+
+.movie_text span
+{
+color: orange;
+}
+
+
+.book 
+{
+    margin-bottom: 20px;
+}
+
+#contact iframe
+{
+    width: 100%;
+}
